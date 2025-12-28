@@ -1,0 +1,15 @@
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\bin\Debug\net8.0\Assignmnet2.1.exe
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\bin\Debug\net8.0\Assignmnet2.1.deps.json
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\bin\Debug\net8.0\Assignmnet2.1.runtimeconfig.json
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\bin\Debug\net8.0\Assignmnet2.1.dll
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\bin\Debug\net8.0\Assignmnet2.1.pdb
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.AssemblyInfoInputs.cache
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.AssemblyInfo.cs
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.csproj.CoreCompileInputs.cache
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.sourcelink.json
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.dll
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\refint\Assignmnet2.1.dll
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.pdb
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\Assignmnet2.1.genruntimeconfig.cache
+C:\Users\SIVIN\PROJECTS\CAMP4DOTNET\Assignments\Assignment2\Assignmnet2\Assignmnet2.1\obj\Debug\net8.0\ref\Assignmnet2.1.dll

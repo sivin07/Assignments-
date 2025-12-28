@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D5DD9A-85E5-4AC8-82FD-608315931D4B}|assignment2.7\\assignment2.7.csproj|c:\\users\\sivin\\projects\\camp4dotnet\\assignments\\assignment2\\assignmnet2\\assignment2.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D5DD9A-85E5-4AC8-82FD-608315931D4B}|assignment2.7\\assignment2.7.csproj|solutionrelative:assignment2.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78506730-8BD9-4C7F-A8CF-93C9A560A880}|assignment2.6\\assignment2.6.csproj|c:\\users\\sivin\\projects\\camp4dotnet\\assignments\\assignment2\\assignmnet2\\assignment2.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78506730-8BD9-4C7F-A8CF-93C9A560A880}|assignment2.6\\assignment2.6.csproj|solutionrelative:assignment2.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F207DE59-4175-4409-AC21-BFBDBB119762}|assignment2.5\\assignment2.5.csproj|c:\\users\\sivin\\projects\\camp4dotnet\\assignments\\assignment2\\assignmnet2\\assignment2.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F207DE59-4175-4409-AC21-BFBDBB119762}|assignment2.5\\assignment2.5.csproj|solutionrelative:assignment2.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05E0D4-8925-4F1B-BE35-669278964A8D}|Assignmnet2.1\\Assignmnet2.1.csproj|c:\\users\\sivin\\projects\\camp4dotnet\\assignments\\assignment2\\assignmnet2\\assignmnet2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB05E0D4-8925-4F1B-BE35-669278964A8D}|Assignmnet2.1\\Assignmnet2.1.csproj|solutionrelative:assignmnet2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.7\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2.7\\Program.cs",
+              "ToolTip": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.7\\Program.cs*",
+              "RelativeToolTip": "assignment2.7\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:25:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.6\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2.6\\Program.cs",
+              "ToolTip": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.6\\Program.cs",
+              "RelativeToolTip": "assignment2.6\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:13:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.5\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2.5\\Program.cs",
+              "ToolTip": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\assignment2.5\\Program.cs",
+              "RelativeToolTip": "assignment2.5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:25:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\Assignmnet2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmnet2.1\\Program.cs",
+              "ToolTip": "C:\\Users\\SIVIN\\PROJECTS\\CAMP4DOTNET\\Assignments\\Assignment2\\Assignmnet2\\Assignmnet2.1\\Program.cs",
+              "RelativeToolTip": "Assignmnet2.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:30:51.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

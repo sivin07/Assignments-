@@ -136,23 +136,19 @@
        
             static void Main(string[] args)
             {
-                Animal[] animals =
-                {
-                new Cat(),
-                new Dog(),
-                new Goat(),
-                new Crow(),
-                new Chicken()
-            };
+            Animal cat1 = new Cat();
+            Animal dog1 = new Dog();
+            Animal goat1= new Goat();
+            Animal crow1= new Crow();
+            Animal chicken1 = new Chicken();
 
-                foreach (Animal a in animals)
-                {
-                    Console.WriteLine("Cry: " + a.Cry());
-                    a.Fly();
-                    a.Walk();
-                    Console.WriteLine("------------------");
-                }
-            }
+            cat1.Cry(); cat1.Fly(); cat1.Walk();
+            dog1.Cry(); dog1.Fly(); dog1.Walk();
+            goat1.Cry(); goat1.Fly(); goat1.Walk();
+            crow1.Cry(); crow1.Fly(); crow1.Walk();
+            chicken1.Cry(); chicken1.Fly(); chicken1.Walk();
+
         }
+    }
     }
      
